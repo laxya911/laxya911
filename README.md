@@ -58,18 +58,6 @@ Available for freelance, contract, and short-term engagements. Rates depend on s
 ---
 
 ## Contact
-- Email: your-email@example.com (replace with preferred contact)  
-- Portfolio / Website: https://your-portfolio.example.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
-
-(Replace the placeholders above with your actual contact links.)
-
----
-
-If everything looks good, reply with:
-1) branch name (or confirm main),  
-2) contact links to include,  
-3) create/update/overwrite preference, and  
-4) the phrase “go ahead”.
-
-I’ll commit once you confirm.
+- Email: laxya911@icloud.com  
+- Portfolio / Website: https://laxya.dev  
+- LinkedIn: https://www.linkedin.com/in/laxman-aryal-88738943/
